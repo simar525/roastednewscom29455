@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://restodemo.texmedhub.com/$1"
+ }
+  ]
+}
